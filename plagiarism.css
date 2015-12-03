@@ -1,0 +1,35 @@
+.fields
+{
+color:green;
+}
+
+.but
+{
+	color:#fff;
+	background-color: #286090;
+	border-color: #204d74;
+}
+
+.plagiarism
+{
+	background-color: lightblue;
+	margin:auto;
+	width: 500px;
+	margin-top:1px;
+	font-weight: bolder;
+	height: 140px;
+	border: 5px solid red;
+}
+
+.plag
+{
+	text-align: center;
+	text-indent: 80px;
+	vertical-align: top;
+	border: 5px solid red;
+	width:700px;
+	font-weight: bolder;
+	margin-top: 200px;
+	margin-left:250px;
+}
+
