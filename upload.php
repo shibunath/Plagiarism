@@ -25,12 +25,12 @@ function getWords($a)
 
 function hashs($a)
 {
-	$sum=0;
+	$sumVal=0;
 	$b=str_split($a);
 	foreach ($b as $key) {
-		$sum+=ord($key);
+		$sumVal+=ord($key);
 	}
-	return ($sum%50);
+	return ($sumVal%50);
 
 }
 
